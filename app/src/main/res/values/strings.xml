@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bai4</string>
+
+    <string name="ListView"> List View</string>
+    <string name="GridView"> Grid View</string>
+</resources>
